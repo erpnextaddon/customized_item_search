@@ -2,9 +2,9 @@ from . import __version__ as app_version
 
 app_name = "customized_item_search"
 app_title = "Customized Item Search"
-app_publisher = "kunhimohamed6@gmail.com"
+app_publisher = "hafeesk@gmail.com"
 app_description = "Search Item"
-app_email = "kunhimohamed6@gmail.com"
+app_email = "hafeesk@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>

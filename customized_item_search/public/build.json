@@ -1,0 +1,5 @@
+{
+    "js/customized_item_search.min.js": [
+        "public/js/frappe/form/link_selector.js"
+    ]
+} 
